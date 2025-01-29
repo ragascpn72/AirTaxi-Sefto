@@ -1,4 +1,4 @@
 # AirTaxi-Sefto
 
 # Tasks
-Rstriction required for sideways motion of axle
+Restriction required for sideways motion of axle.
